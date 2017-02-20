@@ -1,4 +1,7 @@
-# HackNYU
+# VoiceHover
+A project developed and presented at HackNYU 2017. Winner of the Assistive Tech track. 
+
+
 ## Inspiration
 When it comes to Cerebral Palsy and other potential diseases that causes immobility and speech impediments, the options that are available to give someone voice are often expensive and out of reach for many. Because of this, people with this condition have often had to rely on head mounted lasers, a print out, and the assistance of others to speak their voice. We wanted to change this and provide a low cost option that would turn voice to vision- thus introducing VOICE[H]OVER.
 
