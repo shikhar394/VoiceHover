@@ -1,5 +1,5 @@
 # VoiceHover
-A project developed and presented at HackNYU 2017. Winner of the Assistive Tech track. 
+A project developed and presented at HackNYU 2017. Winner of the Assistive Tech track. Implemented in Python and Processing using Computer Vision and Natural Language Processing modules. 
 
 
 ## Inspiration
