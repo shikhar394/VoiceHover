@@ -1,7 +1,5 @@
-Autocomplete with Trie
-======================
+# Autocomplete (Predictive Text) feature implemented with the Trie data structure
 
-# Autocomplete
 Run the trie.py file and change the prefix accordingly. 
 
 [Tries](https://en.wikipedia.org/wiki/Trie) for efficient automatic word completion in several languages.
