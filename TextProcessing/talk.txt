@@ -1,0 +1,4 @@
+Hello Everyone,
+This is the voice of team VoiceHover. 
+Created by a team at NYU Shanghai who's goal is to produce a product open for all, regardless of financial background, we came together to produce, Voicehover. 
+A completely open sourced assistive technology, created to aid people living with cerebral palsy, and other immobilizing, as well as speech impairing disabilities. Find out how it words here.
