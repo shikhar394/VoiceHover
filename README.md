@@ -1,5 +1,7 @@
-# VoiceHover
+# Voice[H]over
 The winner of the Assistive Tech track at HackNYU 2017. Implemented in Python and Processing using Computer Vision and Natural Language Processing modules. 
+
+YouTube Link for the Pitch: https://www.youtube.com/watch?v=f9w8jm_-vkw 
 
 
 ## Inspiration
